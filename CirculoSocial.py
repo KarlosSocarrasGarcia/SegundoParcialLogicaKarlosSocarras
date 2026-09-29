@@ -9,7 +9,7 @@ MI_NOMBRE = "Karlos (Centro)"
 G.add_node(MI_NOMBRE)
 
 comunidades = {
-    "Familia": ["Mamá", "Papá", "Hermano", "Tía"],
+    "Familia": ["Mamá", "Papá", "Hermano", "Hermana"],
     "Amigos Barrio": ["David", "Gabriela", "Carmelo"],
     "Compañeros Universidad": ["Danna", "Javier", "Daniel", "Carlos"]
 }
